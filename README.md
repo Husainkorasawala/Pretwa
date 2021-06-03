@@ -1,4 +1,4 @@
-#PRETWA
+PRETWA
 
 HOW TO SET-UP
 1. Pretwa is played on a circular board composed of 3 concentric circles with 6 lines radiating from a centre point. Lines indicate permitted moves.
